@@ -83,7 +83,7 @@
 
 ### 📊 Estatísticas
 
-<p align="center">
+<p align="left">
   <img 
     alt="Estatísticas do GitHub - Guilherme Paixão" 
     height="200" 
