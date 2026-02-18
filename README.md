@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GuilhermePaixaao/GuilhermePaixao/main/pastagithubedit/banner-curso-1.jpg" alt="Banner do Perfil">
-</div>
+
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
