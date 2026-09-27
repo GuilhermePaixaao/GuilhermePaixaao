@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning React and TypeScript<br>🎯 Goals: Contribuir em projetos de grande escala e conquistar minha primeira vaga como Desenvolvedor Júnior.<br>🎲 Fun fact: Gosto de programar e quando não estou programando, estou tovando violão</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning React and TypeScript<br>🎯 Goals: Contribuir em projetos de grande escala e conquistar minha primeira vaga como Desenvolvedor Júnior.<br>🎲 Fun fact: Gosto de programar e quando não estou programando, estou tocando violão</p>
 
 ###
 
